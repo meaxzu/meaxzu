@@ -10,6 +10,6 @@
 
 <div align=center>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:comos0224450@gmail.com)
-  
+<img src="https://img.shields.io/badge/mail-minutemailer?style=flat&logo=mail&logoColor=blue&link=mailto:minju050224@cau.ac.kr"/>
+
 </div>
