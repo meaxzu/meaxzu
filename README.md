@@ -9,7 +9,7 @@
 - I’m passionate about learning and exploring various projects!
 
 <div align=center>
-  
-<img src="https://img.shields.io/badge/mail-minutemailer?style=flat&logo=mail&logoColor=blue&link=mailto:minju050224@cau.ac.kr"/>
+
+[![mail Badge](https://img.shields.io/badge/-mail-minutemailer?style=flat-square&logo=mail&logoColor=wite&link=mailto:minju050224@cau.ac.kr)](mailto:minju050224@cau.ac.kr)
 
 </div>
