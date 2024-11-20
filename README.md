@@ -17,9 +17,7 @@
 <div align="center">
 	
 <img src="https://github-readme-stats.vercel.app/api?username=meaxzu&show_icons=true&theme=swift" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meaxzu&theme=swift" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaxzu&layout=compact&theme=swift" alt="Top Languages"/>
-  
+
 </div>
 <br>
 <div align=center>
