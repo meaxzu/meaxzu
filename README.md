@@ -10,7 +10,7 @@
 
 </div>
 
-### Hello! 👋
+#### Hello! 👋
 - I’m Kim Minjoo, currently studying **Open Source Programming** at Chung-Ang Universit.
 - I’m passionate about learning and exploring various projects!
 
