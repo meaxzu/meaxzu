@@ -10,6 +10,6 @@
 
 <div align=center>
 
-[![mail Badge](https://img.shields.io/badge/-mail-minutemailer?style=flat-square&logo=mail&logoColor=wite&link=mailto:minju050224@cau.ac.kr)](mailto:minju050224@cau.ac.kr)
+[![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:minju050224@cau.ac.kr)](mailto:minju050224@cau.ac.kr)
 
 </div>
