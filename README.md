@@ -11,7 +11,7 @@
 </div>
 
 **Hello!👋**
-- I’m Kim Minjoo, currently studying __Open Source Programming__ at Chung-Ang Universit.
+- I’m Kim Minjoo, currently studying ***Open Source Programming*** at Chung-Ang Universit.
 - I’m passionate about learning and exploring various projects!
 
 <div align="center">
