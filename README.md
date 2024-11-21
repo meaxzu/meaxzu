@@ -17,12 +17,11 @@
 - Passionate about learning and building exciting projects!  
 - Always open to new collaborations. Let's connect! 😊
 
-## **🌟 Project**
+## **🔧 My Projects**
+**Test Project**
+- Check out my project [here](https://github.com/meaxzu/test.git).
+- This project is a test repository where I am experimenting with different GitHub features.
 
-### [My Portfolio Website](https://github.com/meaxzu/project3)  
-- A responsive portfolio showcasing my skills, projects, and contact information.  
-- Built with **React**, **CSS**, and **Node.js**.  
-- Integrated with GitHub API for real-time project updates.
 
 ## **📊 GitHub Activities**
 
