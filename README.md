@@ -47,7 +47,7 @@
 <div align="center">
 
 [![Mail Badge](https://img.shields.io/badge/-mail-blue?style=flat-square&logo=gmail&logoColor=white&link=mailto:minju050224@cau.ac.kr)](mailto:minju050224@cau.ac.kr)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/YourDiscordLink)](https://discord.gg/d2s3FUgz)  
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/discord.gg/d2s3FUgz)](https://discord.gg/d2s3FUgz)  
 
 </div>
 	
